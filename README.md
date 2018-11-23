@@ -1,6 +1,6 @@
 # sell
 
-> 仿饿了么外面APP gar
+> 仿饿了么外面APP
 
 ## Build Setup
 
